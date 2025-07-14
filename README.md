@@ -13,8 +13,8 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/khaledmaherelotify)
+- 📧 Email: `khaled.maher.otafy@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/khaledmaherelotify](https://linkedin.com/in/khaledmaherelotify)
 - 🧑‍💻 GitHub: [KhaledMaherElOtify](https://github.com/KhaledMaherElOtify)
 
 ---
