@@ -14,7 +14,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: `khaled.maher.otafy@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/khaledmaherelotify](https://linkedin.com/in/khaledmaherelotify)
+- 💼 LinkedIn: [linkedin.com/in/khaledmaherotify](https://linkedin.com/in/khaledmaherotify)
 - 🧑‍💻 GitHub: [KhaledMaherElOtify](https://github.com/KhaledMaherElOtify)
 
 ---
@@ -41,6 +41,6 @@
 ---
 
 ## ❤️ Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/khaledmaherelotify)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/khaledmaherotify)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:khaled.maher.otafy@gmail.com)
 
